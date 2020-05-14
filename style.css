@@ -1,0 +1,92 @@
+.lateral-padding{
+  max-width: 1500px;
+  display: inline-flex;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+.vertical-padding{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.banner-top{
+  width:100%;
+}
+.blue-bg{
+  background-color:#034f84;
+  color:#fff;
+}
+.text-width{
+  max-width:700px
+}
+.grey-bg{
+  background-color:#fbfbfb ;
+}
+#accordion{
+  max-width:900px;
+}
+.green1{
+  background-color:#b2dfdb;
+}
+.green2{
+  background-color:#80cbc4;
+}
+.green3{
+  background-color:#4db6ac;
+}
+.green4{
+  background-color:#26a69a;
+}
+.card{
+  border-style:none !important;
+}
+.card-header .btn{
+  font-size:22px;
+  font-weight:800;
+  color:#000;
+  text-transform:uppercase;
+}
+.orange-bg{
+  background-color:#f4e1d2;
+}
+.orange-bg .btn{
+  width:400px;
+}
+.input-style{
+  width: 400px;
+  border-radius: 10px;
+  border: none;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+@media (max-width: 576px) { 
+  .orange-bg .btn{
+    width:300px;
+  }
+  .input-style{
+    width:300px;
+  }
+}
+.nav-link{
+  text-transform:uppercase;
+  font-weight:800;
+}
+.card-img-top{
+  width: 18rem;
+  height:192px;
+}
+h5{
+  font-weight:200;
+}
+.nav-item{
+  margin-right:30px;
+}
+footer{
+  background-color:#f8f9fa;
+  height:90px;
+}
+.contact-footer{
+  margin-bottom:0px;
+  font-weight:200;
+}
